@@ -1,1 +1,1 @@
-# Mathematical-Foundations-for-Computer-Vision-and-Machine-Learning-assienment
+# Mathematical-Foundations-for-Computer-Vision-and-Machine-Learning-assignment
